@@ -2,4 +2,4 @@
 
 This repo contains definitions, audio samples and icons for instruments to be used with [Batukeitor](https://github.com/clvLabs/batukeitor).
 
-Please see the [Batukeitor docs](https://github.com/clvLabs/batukeitor/tree/master/resources/docs/index.md) for more info.
+Please see the [Batukeitor docs](https://github.com/clvLabs/batukeitor/tree/master/resources/docs/README.md) for more info.
