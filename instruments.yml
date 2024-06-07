@@ -91,11 +91,11 @@ instruments:
     name: "Surdo 2ª"
     samples:
       "O": "S2_hi2.mp3"
-      "X": "S2_hi.mp3"
+      "X": "S2_hi_.mp3"
       "-": "S2_lo.mp3"
 
   S1:
     name: "Surdo 1ª"
     samples:
-      "X": "S1_hi.mp3"
+      "X": "S1_hi_.mp3"
       "-": "S1_lo.mp3"
